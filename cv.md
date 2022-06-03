@@ -21,7 +21,13 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(2,2), 4);
     assert.strictEqual(multiply(3,5), 15);   
   });
-});```
+}); 
+```
+## *Education*
+* 2017 Belarusian National Technical University
+  * Master of Technical Sciences
+* 2015 Belarusian National Technical University 
+  *  Power Engineer
+## *English*
+B1 in progress
 
-
-## *About me*
