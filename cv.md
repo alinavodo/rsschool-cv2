@@ -1,3 +1,3 @@
-# ** rsschool-cv **
-## * Alina Vodopyanava *
-## * My Contact Info *
+# **rsschool-cv**
+## *Alina Vodopyanava*
+## *My Contact Info*
